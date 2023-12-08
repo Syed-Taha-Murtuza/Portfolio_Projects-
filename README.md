@@ -1,2 +1,2 @@
 # Portfolio_Projects-
-these are all the projects I have done in Data Analytics 
+these are all the projects I have done.
